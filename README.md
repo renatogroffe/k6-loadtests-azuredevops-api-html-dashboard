@@ -12,6 +12,8 @@ Resultados da execução dos testes a partir do Azure Pipelines:
 
 Resultados no k6 Web Dashboard:
 
-
+![Web Dashboard](img/web-dashboard-01.png)
 
 Resultados gerados via Extensão JavaScript do k6 Reporter:
+
+![k6 Reporter](img/k6-reporter-01.png)
