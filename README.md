@@ -8,8 +8,10 @@ Links importantes:
 
 Resultados da execução dos testes a partir do Azure Pipelines:
 
+![Azure Pipelines](img/azure-pipelines-01.png)
 
 Resultados no k6 Web Dashboard:
+
 
 
 Resultados gerados via Extensão JavaScript do k6 Reporter:
